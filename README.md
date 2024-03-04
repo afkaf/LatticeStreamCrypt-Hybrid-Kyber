@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The `kyberk2so.dll` is built from the [Kyber-K2SO Go library by Symbolic Software](https://github.com/symbolicsoft/kyber-k2so), published under the MIT License. This project owes its gratitude to the creators of Kyber-K2SO for their pioneering work in post-quantum cryptography.
+- The `kyberk2so.dll` is built using the [Kyber-K2SO Go library by Symbolic Software](https://github.com/symbolicsoft/kyber-k2so), published under the MIT License. This project owes its gratitude to the creators of Kyber-K2SO for their pioneering work in post-quantum cryptography.
