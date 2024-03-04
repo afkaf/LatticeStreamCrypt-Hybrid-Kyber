@@ -22,7 +22,7 @@ go mod init kyberk2so
 
 go get -u github.com/symbolicsoft/kyber-k2so
 
-go build -o kyberk2so.dll -buildmode=c-shared kyberk2so.go`.
+go build -o kyberk2so.dll -buildmode=c-shared kyberk2so.go
 ```
 After building the dll, place it in the same directory as `kyberk2so.py` and `LatticeSteamCrypt.py`.
 
